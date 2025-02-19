@@ -607,7 +607,7 @@
 		<!-- End Blog Area -->
 		
 		<!-- Start clients -->
-		<div class="clients overlay">
+		<!--<div class="clients overlay">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-12 col-md-12 col-12">
@@ -643,7 +643,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 		<!--/Ens clients -->
 		
 		<!-- Start Appointment -->
