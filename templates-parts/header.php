@@ -88,7 +88,7 @@
 							<!-- Contact -->
 							<ul class="top-link">
 								<li><a href="default.php">Home</a></li>
-								<li><a href="doutores.php">Doctores</a></li>
+								<li><a href="doutores.php">Doutores</a></li>
 								<li><a href="contato.php">Contato</a></li>
 								<li><a href="#">FAQ</a></li>
 							</ul>
@@ -131,19 +131,19 @@
 													<li><a href="default.php">Home Page 1</a></li>
 												</ul>
 											</li>
-											<li><a href="doutores.php">Doctos </a></li>
-											<li><a href="servicos.php">Services </a></li>
-											<li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
+											<li><a href="doutores.php">Doutores </a></li>
+											<li><a href="servicos.php">Serviços </a></li>
+											<li><a href="#">Paginas<i class="icofont-rounded-down"></i></a>
 												<ul class="dropdown">
 													<li><a href="404.html">404 Error</a></li>
 												</ul>
 											</li>
-											<li><a href="#">Blogs <i class="icofont-rounded-down"></i></a>
+											<li><a href="#">Blog<i class="icofont-rounded-down"></i></a>
 												<ul class="dropdown">
 													<li><a href="blog-single.php">Blog Details</a></li>
 												</ul>
 											</li>
-											<li><a href="contato.php">Contact Us</a></li>
+											<li><a href="contato.php">Contato</a></li>
 										</ul>
 									</nav>
 								</div>
