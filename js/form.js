@@ -44,7 +44,7 @@ formSubmitBtn.addEventListener("click", function(event){
       stepThree.classList.add('active')
 
       formBackBtn.classList.remove('active')
-      formSubmitBtn.textContent = 'enviar'
+      formSubmitBtn.textContent = 'Enviar'
     } else if(stepMenuThree.className == 'formbold-step-menu3 active') {
       document.querySelector('form').submit()
     }

@@ -38,50 +38,27 @@
                   </div>
                 </div>
         
-                <div class="formbold-input-flex">
-                    <div>
+                <div>
+                    <!-- <div>
                         <label for="dob" class="formbold-form-label"> Date of Birth </label>
-                        <input 
-                        type="date" 
-                        name="dob" 
-                        id="dob" 
-                        class="formbold-form-input"
-                        />
-                    </div>
+                        <input type="date" name="dob" id="dob" class="formbold-form-input" />
+                    </div> -->
                     <div>
                         <label for="email" class="formbold-form-label"> Email Address </label>
-                        <input
-                        type="email"
-                        name="email"
-                        placeholder="example@mail.com"
-                        id="email"
-                        class="formbold-form-input"
-                        />
+                        <input type="email" name="email" placeholder="example@mail.com" id="email" class="formbold-form-input" />
                     </div>
                 </div>
         
                 <div>
                     <label for="address" class="formbold-form-label"> Address </label>
-                    <input
-                    type="text"
-                    name="address"
-                    id="address"
-                    placeholder="Flat 4, 24 Castle Street, Perth, PH1 3JY"
-                    class="formbold-form-input"
-                    />
+                    <input type="text" name="address" id="address" placeholder="Flat 4, 24 Castle Street, Perth, PH1 3JY" class="formbold-form-input" />
                 </div>
               </div>
       
               <div class="formbold-form-step-2">
                 <div>
                   <label for="message" class="formbold-form-label"> Message </label>
-                  <textarea
-                    rows="6"
-                    name="message"
-                    id="message"
-                    placeholder="Type your message"
-                    class="formbold-form-input"
-                  ></textarea>
+                  <textarea rows="6" name="message" id="message" placeholder="Type your message" class="formbold-form-input"></textarea>
                 </div>
               </div>
       
@@ -132,8 +109,8 @@
                 </button>
       
                 <button class="formbold-btn">
-                    Next Step
-                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    Próxima Etapa
+                    <!-- <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <g clip-path="url(#clip0_1675_1807)">
                     <path d="M10.7814 7.33312L7.20541 3.75712L8.14808 2.81445L13.3334 7.99979L8.14808 13.1851L7.20541 12.2425L10.7814 8.66645H2.66675V7.33312H10.7814Z" fill="white"/>
                     </g>
@@ -142,7 +119,7 @@
                     <rect width="16" height="16" fill="white"/>
                     </clipPath>
                     </defs>
-                    </svg>
+                    </svg> -->
                 </button>
               </div>
           </form>
